@@ -1,0 +1,47 @@
+messageSide,charaName,charaExpress,cahraMove,nameBg,message,afterWaitTimer,BgId,bgmName,seName,isNextSceneProcess
+Right,President,Normal,,blue,君達の捕獲に ,,,oo39_ys086,,
+Right,President,Normal,,blue,２人の賞金稼ぎが名乗りを上げた。凄腕のな。後に応援も大勢来る。,,,,,
+Right,President,Normal,,blue,こればっかりは・・・,,,,,
+Left,Mona,Normal,,blue,その２人、残念だなぁ。,,,,,
+Right,President,Normal,,blue,・・・・・何？,,,,,
+Left,Mona,Normal,,blue,ギコにあんまり敵意持たせるとマズイぞ。もう俺は知らん。,,,,,
+Left,Mona,Normal,,blue,今頃その賞金稼ぎとやらも只の肉塊になってるだろうな,1,1,,,
+Right,Enemy1,Normal,,blue,あ・・ぁッ ・・,1,,,FallDwon,TRUE
+Left,Mona,Normal,,blue,応援なんて無駄だ,1,2,,,
+Left,Mona,Normal,,blue,一度剣を手にしたら最後彼奴は何人でも殺す。,,,,,
+Left,Mona,Normal,,blue,これ以上国の人口を減らしたくなければ無駄な抵抗は止せ。,1,3,,,
+Right,President,Normal,,blue,ぐっ・・・！,,,,,
+Left,Mona,Normal,,blue,そろそろ時計台爆破の時間だ 通信を切らせてもらう。,,,,,
+Right,President,Normal,,blue,なっ！ちょっと待―― ,,,,,
+Right,Enemy1,Normal,,blue,(扉の外にて)たっ助け・・,1,,,ShotAttack1,TRUE
+Right,Enemy1,Normal,,blue,ぐぁっ,,,,Damage1,
+Left,Mona,Normal,,blue,む。,,,,,
+Left,Mona,Complain,,blue,終わったのか,1,,,DoorClose1,TRUE
+Right,Gico,Normal,,blue,・・・・・・・・・・・,,,,,
+Left,Mona,Complain,,blue,随分とえげつない,,,,,
+Left,Mona,Normal,,blue,それでは！,,,,,
+Left,Mona,Normal,,blue,爆破といこうか,,,,,
+Left,Mona,Normal,,blue,switch ,,,,,
+Left,Mona,Normal,,blue,ON！,3,4,,Explosion1,TRUE
+Left,Mona,Normal,,blue,Bingo！,1,5,,,
+Left,Mona,Normal,,blue,・・・・・と。,,,,,
+Left,Mona,Normal,,blue,それじゃぁさっさと時計台船につり上げて墓に持ってくか。 ,1,6,,,
+Left,Mona,Normal,,blue,んじゃ時計台に向かって,1,,,,TRUE
+Left,Mona,Normal,,blue,全速前進！,,,,,
+Left,Mona,Normal,,blue,・・・・・・・・・・・,1,7,,,
+Left,Mona,Normal,,blue,いやな、最初は全部持っていくつもりだったんだけどな。,1,8,,,
+Left,Mona,Normal,,blue,やっぱ流石にでかくてよ,,,,,
+Left,Mona,Normal,,blue,破片だけ持って来たよ,,,,,
+Left,Mona,Complain,,blue,お前が死んで早四年か。 ,,,,,
+Left,Mona,Complain,,blue,何で死ぬのに生きるのか,,,,,
+Left,Mona,Complain,,blue,何で死ぬまで生きるのか ,,,,,
+Left,Mona,Complain,,blue,俺達,1,9,,,
+Left,Mona,Complain,,blue,何のために産まれて来たのか,,,,,
+Right,Gico,Normal,,blue,・・・・・・・・・・・,1,10,,,
+Left,Mona,Normal,,blue,線香でも立てるか,1,11,,,
+Left,Mona,Normal,,blue,あれ・・持ってくるの忘れたかな？ ,,,,,
+Left,Mona,Normal,,blue,・・煙草で失礼。,1,,,,TRUE
+Right,Gico,Normal,,blue,罰当たり・・,1,12,,,
+Left,Mona,Complain,,blue,大切なのは気持ちだ！,,,,,
+Left,Mona,Complain,,blue,さて、行くぞ,1,13,,,
+Right,Gico,Normal,,blue,・・・・・・・・・・・,2,,,,TRUE
